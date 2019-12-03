@@ -1,6 +1,6 @@
 # Julia Language
 ## Finn, Jadyn, Michelle
-[Link](https://docs.google.com/presentation/d/17DnfDNylJrP8yAuC1GV9p7d2jxt2_Kqvp-k2ee81WsM/edit?ts=5dde02f6#slide=id.g7a4e5a05de_0_25)
+[Presentation](https://docs.google.com/presentation/d/17DnfDNylJrP8yAuC1GV9p7d2jxt2_Kqvp-k2ee81WsM/edit?ts=5dde02f6#slide=id.g7a4e5a05de_0_25)
 ## Julia has basic data types
 - int
 - float
