@@ -4,5 +4,5 @@ addArgs(1,1) # 2
 addArgs(1,1.1) # Error
 
 multArgs(x::Number, y::Number) = 3x - 2y
-multArgs(4,2)
+multArgs(4,2.2)
 # The function will run as long as the arguments are instances of Number which includes all real numbers
