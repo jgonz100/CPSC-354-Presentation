@@ -18,3 +18,9 @@
 # Key Feature: Multiple Dispatch
 - A method can be dynamically dispatched based on its run time, type, or arguments
 - Most implemented in computational code to consider all argument types on an operator
+
+# Parallelism
+- Julia allows for parallelization out of the box using the '@' macro.
+- To call a parallel function all you need to do is apply '@parallel' to your code.
+- Julia allows allows for dynamic scheduling with the built in Channel feature.
+- More information can be found in the Julia parallel computing documentation [Here] (https://docs.julialang.org/en/v1/manual/parallel-computing/)
